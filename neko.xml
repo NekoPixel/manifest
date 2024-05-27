@@ -83,6 +83,8 @@
   <!-- Packages -->
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="neko" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="neko" />
+  <project path="packages/apps/SimpleSettingsConfig" name="packages_apps_SimpleSettingsConfig" remote="neko" />
+  <project path="packages/apps/SystemUIFlagFlipper" name="packages_apps_SystemUIFlagFlipper" remote="neko" />
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="neko" />
 
   <!-- Prebuilts -->
