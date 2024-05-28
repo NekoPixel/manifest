@@ -38,6 +38,12 @@
 
   <!-- External -->
   <project path="external/json-c" name="external_json-c" remote="neko" />
+  <project path="external/ant-wireless/ant_client" name="external_ant-wireless_ant_client" remote="neko" />
+  <project path="external/ant-wireless/ant_native" name="external_ant-wireless_ant_native" remote="neko" />
+  <project path="external/ant-wireless/ant_service" name="external_ant-wireless_ant_service" remote="neko" />
+  <project path="external/ant-wireless/hidl" name="external_ant-wireless_hidl" remote="neko" />
+  <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" revision="refs/tags/android-11.0.0_r48" />
+  <project path="external/libcxx" name="external_libcxx" remote="neko" />
 
   <!-- Framework -->
   <project path="frameworks/av" name="frameworks_av" remote="neko" />
@@ -46,6 +52,7 @@
 
   <!-- Hardware -->
   <project path="hardware/interfaces" name="hardware_interfaces" remote="neko" />
+  <project path="hardware/xiaomi" name="hardware_xiaomi" remote="neko" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="neko" />
   <project path="hardware/lineage/compat" name="hardware_lineage_compat" remote="neko" />
   <project path="hardware/qcom/wlan" name="hardware_qcom_wlan" remote="neko" />
